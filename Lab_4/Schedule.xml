@@ -1,0 +1,27 @@
+<Schedule>
+    <title>Расписание</title>
+    <weekday>Вторник</weekday>
+    <pair>
+        <ActivityType>Лабораторная</ActivityType>
+        <name>Программирование</name>        <teacher>Инячина Диана Александровна</teacher>
+        <adress>Ауд. 1320, Кронверкский пр., д.49, лит.А</adress>        <time>13:30 - 15:00</time>
+    </pair>    <pair>
+        <ActivityType>Лабораторная</ActivityType>
+        <name>Программирование</name>
+        <teacher>Инячина Диана Александровна</teacher>
+        <adress>Ауд. 1320, Кронверкский пр., д.49, лит.А</adress>
+        <time>15:20 - 16:50</time>
+    </pair>    <pair>
+        <ActivityType>Лекция</ActivityType>
+        <name>Основы дискретной математики (продвинутый уровень)</name>
+        <teacher>Пастор Алексей Владимирович</teacher>
+        <adress>Ауд. Orange Classroom (1229), Кронверкский пр., д.49, лит.А</adress>
+        <time>17:00 - 18:30</time>
+    </pair>    <pair>
+        <ActivityType>Практика</ActivityType>
+        <name>Основы дискретной математики (продвинутый уровень)</name>
+        <teacher>Карпов Дмитрий Валерьевич</teacher>
+        <adress>Ауд. Orange Classroom (1229), Кронверкский пр., д.49, лит.А</adress>
+        <time>18:40 - 20:10</time>
+    </pair>
+</Schedule>
